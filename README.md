@@ -2,7 +2,7 @@
 ### Assessing the Impact of Investment More Compute Time in ACQF Optimization
 Team Members: Andrew R. Falkowski, Carter Salbego, Ramsey Issa, Dr. Taylor D. Sparks
 > 🚧 🚧 🚧  
-> WARNING! This repository is under active development and is expected to undergo several changes in the coming weeks.
+> WARNING! This repository is under active development and is expected to undergo several changes in the coming weeks.  
 > 🚧 🚧 🚧
 
 ## Motivation
